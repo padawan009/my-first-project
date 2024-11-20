@@ -17,6 +17,20 @@ body {
     flex-shrink: 0;
 }
 
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
+}
+
+ul {
+    font-size: 18px;
+    color: #E5E7EB;
+    display: flex;
+    list-style: none;
+    gap: 24px;
+}
+
 .block-1 {
     height: 400px;
     background-color: #1F2937;
@@ -169,18 +183,4 @@ body {
 .footer {
     height: 100px;
     background-color: #1F2937;
-}
-
-.logo {
-    font-size: 24px;
-    color: #F9FAF8;
-    font-weight: bold;
-}
-
-ul {
-    font-size: 18px;
-    color: #E5E7EB;
-    display: flex;
-    list-style: none;
-    gap: 24px;
 }
